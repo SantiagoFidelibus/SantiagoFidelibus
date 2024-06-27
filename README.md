@@ -37,14 +37,13 @@
 <div id="proyectos">
 <h2 >Proyecto Java👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://github.com/SantiagoFidelibus/Sistema_Administrativo_Clubes_Futbol.git" title="Go to Source">
-        <img align="center" width=100% src="https://skillicons.dev/icons?i=github&perline=12"   alt="REPOSITORIO" /></a>
-      </p>   
-</td>
+<div>
+  <p>
+    <a href="https://github.com/SantiagoFidelibus/Sistema_Administrativo_Clubes_Futbol.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Sistema_Administrativo_Clubes_Futbol" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
   
 </tr>
 </table>
