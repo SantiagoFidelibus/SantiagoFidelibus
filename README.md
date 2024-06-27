@@ -11,9 +11,14 @@
 <p align="left">
 🎓 Estudiante de la Tecnicatura Universitaria en Programacion en la Universidad Tecnologica Nacional.
 
-💻 Dos años de experiencia en el proceso de desarrollo de software en proyectos personales.
+💻 Actualmente, estoy en mi último año de estudios, donde he adquirido sólidos conocimientos en diferentes lenguajes de programación y metodologías ágiles.
 
-📝 roles en el ámbito: Desarrollador de software, Backend con Java.
+📝 Habilidades claves:
+  - Programacion Estructurada: **C**.
+  - Programacion Orientada a Objetos: **Java SE**.
+  - Frameworks: En proceso de aprendizaje de **Spring** y **Spring Boot**.
+  - Metodologias Agiles: **Scrum**, **Kanban**.
+  - Herramientas: **Git**, **Github**, **Diagramas UML**, **Trello**, **Java Swing**, **IntelliJ IDEA**.
 
 📫 Contacto: **santiagofidelibus19@gmail.com**
 <!--Intro end-->
