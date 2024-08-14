@@ -17,6 +17,7 @@
   - Programacion Estructurada: **C**.
   - Programacion Orientada a Objetos: **Java SE**.
   - Frameworks: En proceso de aprendizaje de **Spring** y **Spring Boot**.
+  - Diseño y administracion de base de datos: **MySQL**.
   - Metodologias Agiles: **Scrum**, **Kanban**.
   - Herramientas: **Git**, **Github**, **Diagramas UML**, **Trello**, **Java Swing**, **IntelliJ IDEA**.
 
