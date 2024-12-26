@@ -9,9 +9,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Estudiante de la Tecnicatura Universitaria en Programacion en la Universidad Tecnologica Nacional.
+🎓 Tecnico Universitario en Programacion.
 
-💻 Actualmente, estoy en mi último año de estudios, donde he adquirido sólidos conocimientos en diferentes lenguajes de programación y metodologías ágiles.
+💻 He finalizado todas las materias de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional y estoy a la espera de rendir la tesis final para obtener el título.
 
 📝 Habilidades claves:
   - Programacion Estructurada: **C**.
