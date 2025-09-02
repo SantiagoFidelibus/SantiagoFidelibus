@@ -42,8 +42,8 @@
 
 <div>
   <p>
-    <a href="https://github.com/SantiagoFidelibus/Gramercy-Estates">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Gramercy-Estates" alt="Gramercy Estates" />
+    <a href="https://github.com/SantiagoFidelibus/Capital_Connection">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Capital_Connection" alt="Capital Connection" />
     </a>
   </p>
 </div>
