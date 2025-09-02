@@ -11,7 +11,8 @@
 
 <p align="left">
 🎓 Técnico Universitario en Programación (UTN Mar del Plata).  
-📊 Actualmente cursando la **Tecnicatura en Ciencia de Datos** en la Universidad Nacional de Mar del Plata.  
+<br>
+📊 Actualmente cursando la Tecnicatura en Ciencia de Datos en la Universidad Nacional de Mar del Plata.  
 
 💻 Experiencia en desarrollo backend y frontend, con proyectos académicos y personales que integran **Java, Spring Boot, Angular y MySQL**.  
 
@@ -45,7 +46,6 @@
     <a href="https://github.com/SantiagoFidelibus/Sistema_Administrativo_Clubes_Futbol">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Sistema_Administrativo_Clubes_Futbol" alt="Sistema Administrativo Clubes de Fútbol" />
     </a><br>
-    **Sistema Administrativo de Clubes de Fútbol** – Sistema Java de escritorio para gestionar socios, empleados y finanzas.
   </p>
 </div>
 
@@ -54,7 +54,6 @@
     <a href="https://github.com/SantiagoFidelibus/Capital_Connection">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Capital_Connection" alt="Capital Connection" />
     </a><br>
-    **Capital Connection** – Plataforma web que conecta emprendedores con inversores (Angular + Bootstrap).
   </p>
 </div>
 
@@ -63,7 +62,6 @@
     <a href="https://github.com/SantiagoFidelibus/CrowdNet-API">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=CrowdNet-API" alt="CrowdNet-API" />
     </a><br>
-    **CrowdNet-API** – API RESTful en Spring Boot con MySQL y JWT que impulsa Capital Connection.
   </p>
 </div>
 
