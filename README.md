@@ -1,57 +1,59 @@
-<h1 align="center">✨ Santiago Fidelibus - Software Developer ✨ </h1> 
+<h1 align="center">✨ Santiago Fidelibus - Software Developer ✨</h1> 
 
 <p align="center">
 <a href="https://linkedin.com/in/santiagofidelibus" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="santiagofidelibus"/></a>
-<a href = "mailto:santiagofidelibus19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="santiagofidelibus"  /></a>
-  </p>
+<a href="mailto:santiagofidelibus19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="santiagofidelibus"  /></a>
+</p>
+
 <br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+
+<h2>Sobre mí 😃</h2>
 
 <p align="left">
-🎓 Tecnico Universitario en Programacion.
+🎓 Técnico Universitario en Programación (UTN Mar del Plata).  
+📊 Actualmente cursando la **Tecnicatura en Ciencia de Datos** en la Universidad Nacional de Mar del Plata.  
 
-💻 He finalizado todas las materias de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional y estoy a la espera de rendir la tesis final para obtener el título.
+💻 Experiencia en desarrollo backend y frontend, con proyectos académicos y personales que integran **Java, Spring Boot, Angular y MySQL**.  
 
-📝 Habilidades claves:
-  - Programacion Estructurada: **C**.
-  - Programacion Orientada a Objetos: **Java SE**.
-  - Frameworks: En proceso de aprendizaje de **Spring** y **Spring Boot**.
-  - Diseño y administracion de base de datos: **MySQL**.
-  - Metodologias Agiles: **Scrum**, **Kanban**.
-  - Herramientas: **Git**, **Github**, **Diagramas UML**, **Trello**, **Java Swing**, **IntelliJ IDEA**.
+📝 Habilidades clave:
+- **Backend:** Java, Spring Boot, APIs REST, JWT.
+- **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript.
+- **Bases de datos:** MySQL, diseño y administración.
+- **DevOps y herramientas:** Docker, Swagger, Cloudinary, Git, GitHub, Trello, Jira.
+- **Metodologías ágiles:** Scrum, Kanban.
+- **Otros:** C (programación estructurada), UML, pruebas unitarias con JUnit/Mockito (aprendiendo).  
 
 📫 Contacto: **santiagofidelibus19@gmail.com**
-<!--Intro end-->
-  </p>
+</p>
+
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,spring,maven,css,html,js,mysql,git,github,idea,eclipse,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,docker,git,github,idea,vscode,maven&perline=12" />
   </a>
 </p>
+
 <br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Proyecto Java👨🏻‍💻</h2>
+
+<h2>Proyectos destacados 🚀</h2>
 
 <div>
   <p>
-    <a href="https://github.com/SantiagoFidelibus/Sistema_Administrativo_Clubes_Futbol.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Sistema_Administrativo_Clubes_Futbol" alt="GitHub Stats" />
+    <a href="https://github.com/SantiagoFidelibus/Gramercy-Estates">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Gramercy-Estates" alt="Gramercy Estates" />
     </a>
   </p>
 </div>
-  
-</tr>
-</table>
-  </div>
+
+<div>
+  <p>
+    <a href="https://github.com/SantiagoFidelibus/Sistema_Administrativo_Clubes_Futbol">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Sistema_Administrativo_Clubes_Futbol" alt="Sistema Administrativo Clubes de Fútbol" />
+    </a>
+  </p>
+</div>
+
 <br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-<!-------------------------->
