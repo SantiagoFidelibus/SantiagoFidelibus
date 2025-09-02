@@ -42,17 +42,28 @@
 
 <div>
   <p>
-    <a href="https://github.com/SantiagoFidelibus/Capital_Connection">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Capital_Connection" alt="Capital Connection" />
-    </a>
+    <a href="https://github.com/SantiagoFidelibus/Sistema_Administrativo_Clubes_Futbol">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Sistema_Administrativo_Clubes_Futbol" alt="Sistema Administrativo Clubes de Fútbol" />
+    </a><br>
+    **Sistema Administrativo de Clubes de Fútbol** – Sistema Java de escritorio para gestionar socios, empleados y finanzas.
   </p>
 </div>
 
 <div>
   <p>
-    <a href="https://github.com/SantiagoFidelibus/Sistema_Administrativo_Clubes_Futbol">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Sistema_Administrativo_Clubes_Futbol" alt="Sistema Administrativo Clubes de Fútbol" />
-    </a>
+    <a href="https://github.com/SantiagoFidelibus/Capital_Connection">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Capital_Connection" alt="Capital Connection" />
+    </a><br>
+    **Capital Connection** – Plataforma web que conecta emprendedores con inversores (Angular + Bootstrap).
+  </p>
+</div>
+
+<div>
+  <p>
+    <a href="https://github.com/SantiagoFidelibus/CrowdNet-API">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=CrowdNet-API" alt="CrowdNet-API" />
+    </a><br>
+    **CrowdNet-API** – API RESTful en Spring Boot con MySQL y JWT que impulsa Capital Connection.
   </p>
 </div>
 
