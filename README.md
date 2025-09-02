@@ -48,16 +48,12 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Capital_Connection" alt="Capital Connection" />
       </a>
       <br>
-      <b>Capital Connection (Front-end)</b><br>
-      Plataforma web que conecta emprendedores con inversores (Angular + Bootstrap).
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/SantiagoFidelibus/Sistema_Administrativo_Clubes_Futbol">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=Sistema_Administrativo_Clubes_Futbol" alt="Sistema Administrativo de Clubes de Fútbol" />
       </a>
       <br>
-      <b>Sistema Administrativo de Clubes de Fútbol</b><br>
-      Sistema Java de escritorio para gestionar socios, empleados y finanzas.
     </td>
   </tr>
   <tr>
@@ -66,8 +62,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiagofidelibus&repo=CrowdNet-API" alt="CrowdNet-API" />
       </a>
       <br>
-      <b>CrowdNet-API</b><br>
-      API RESTful en Spring Boot con MySQL y JWT que impulsa Capital Connection.
     </td>
   </tr>
 </table>
